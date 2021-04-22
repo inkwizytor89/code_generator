@@ -11,3 +11,5 @@ easy setup
 to run:
 
 `mvnw spring-boot:run`
+
+https://github.com/INRIA/spoon
